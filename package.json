@@ -5,13 +5,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tailwindcss/vite": "latest",
     "@vitejs/plugin-react": "latest",
-    "lucide-react": "latest",
+    "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "lucide-react": "latest",
     "tailwindcss": "latest",
-    "vite": "latest"
+    "@tailwindcss/vite": "latest"
   },
   "devDependencies": {}
 }
